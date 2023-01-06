@@ -10,7 +10,7 @@ For each of the following scenarios, think about a model that you might create t
 
 2. Doctors want an objective second opinion on imaging results—predict whether an MRI shows cancerous growth. Precision
 
-3. Farmers want improved weather forecasts—predict whether it will rain the next day. Accuracy
+3. Farmers want improved weather forecasts—predict whether it will rain the next day. F1
 
 4. A venture capital firm wants to optimize its investments—predict whether a company will undertake an IPO in the next 12 months. Recall
 
